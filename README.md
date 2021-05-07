@@ -1,6 +1,10 @@
 # Breast-cancer-prediagnosis
 Few scripts for prediagnosis on Breast Cancer Wisconsin Dataset using fuzzy logic, FURIA and machine learning.
 
+#### Dataset mirrors:
+[Official](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) \
+[Kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+
 ### Fuzzy logic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bSTTX3tc7n1G-efARa5YYohD7dIGgiUr?usp=sharing)\
 [Github file shortcut](https://github.com/Th3NiKo/Breast-cancer-prediagnosis/blob/master/Breast_cancer_prediagnosis_fuzzy_logic.ipynb)
